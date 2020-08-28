@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phone1",
+      "price": 1234567,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/08/05/10/27/iphone-410311_1280.jpg",
+      "description": "A Sophisticated Smartphone",
+      "weight": 1000
+    },
+    {
+      "id": 2,
+      "name": "Phone2",
+      "price": 2345678,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/09/23/21/23/iphone-6-458159__480.jpg",
+      "description": "A Sophisticated Smartphone2",
+      "weight": 1234
+    },
+    {
+      "id": 3,
+      "name": "Phone3",
+      "price": 3456789,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/27/19/43/smartphone-1283938_1280.jpg",
+      "description": "A Sophisticated Smartphone3",
+      "weight": 2345
+    },
+    {
+      "id": 4,
+      "name": "Phone4",
+      "price": 4567890,
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/11/29/12/30/android-1869510_1280.jpg",
+      "description": "A Sophisticated Smartphone4",
+      "weight": 3456
+    },
+    {
+      "id": 5,
+      "name": "Phone5",
+      "price": 5678901,
+      "imageUrl": "https://cdn.pixabay.com/photo/2018/04/27/03/51/technology-3353701_1280.jpg",
+      "description": "A Sophisticated Smartphone5",
+      "weight": 4567
+    },
+    {
+      "id": 6,
+      "name": "Phone6",
+      "price": 6789012,
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/11/23/11/33/mobile-phone-4646854_1280.jpg",
+      "description": "A Sophisticated Smartphone6",
+      "weight": 5678
+    }
+  ],
+  "user": [
+    {
+      "id": "u1",
+      "name": "Michael",
+      "email": "abc@email.com",
+      "password": "123"
+    },
+    {
+      "id": "u2",
+      "name": "Marcellino",
+      "email": "def@email.com",
+      "password": "456"
+    },
+    {
+      "id": "u3",
+      "name": "Geraldo",
+      "email": "ghi@email.com",
+      "password": "789"
+    }
+  ]
+}

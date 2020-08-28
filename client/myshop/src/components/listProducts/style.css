@@ -1,0 +1,31 @@
+.styleList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.Img{
+    margin: 2rem 2rem;
+    border: 3px solid grey;
+    padding: 1rem 1rem;
+    box-shadow: 5px 10px 10px 10px#888888;
+}
+
+.align{
+    text-align: start;
+    font-weight: bolder;
+    color: blueviolet;
+    font-family: 'Rubik', cursive;
+    text-transform: uppercase;
+}
+
+.desc{
+    color: #171b8f;
+    font-family: 'Balsamiq Sans', cursive;
+    text-transform: none;
+}
+
+.imgList{
+    width: 50vh;
+    max-height: 15rem;
+}
