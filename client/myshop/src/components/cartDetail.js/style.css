@@ -1,0 +1,10 @@
+.col-md-8,
+.col-md-4 {
+padding: 1rem;
+background-color: transparent;
+border: 2px solid #fff;
+color: #fff;
+text-align: center;
+height: 70vh;
+overflow: auto;
+}

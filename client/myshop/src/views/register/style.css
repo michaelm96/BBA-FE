@@ -1,0 +1,10 @@
+.bor{
+    border: 2px solid purple;
+    margin: 10vh 20vw;
+    padding: 10vh 14vw;
+    background-image: linear-gradient(to right,#12c2e9, #c471ed, #f64f59);
+}
+
+/* .text{
+    font-family: "Rubik";
+} */

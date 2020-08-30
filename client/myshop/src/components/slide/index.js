@@ -29,7 +29,7 @@ const Slide = () => {
               <MDBView>
                 <img
                   className="w-100"
-                  src="https://mdbootstrap.com/img/Photos/Slides/img%20(130).jpg"
+                  src="https://cdn.pixabay.com/photo/2014/08/05/10/27/iphone-410311_1280.jpg"
                   alt="First slide"
                   style={{ height: "70vh" }}
                 />
@@ -39,7 +39,7 @@ const Slide = () => {
               <MDBView>
                 <img
                   className="w-100"
-                  src="https://mdbootstrap.com/img/Photos/Slides/img%20(129).jpg"
+                  src="https://cdn.pixabay.com/photo/2014/09/23/21/23/iphone-6-458159__480.jpg"
                   alt="Second slide"
                   style={{ height: "70vh" }}
                 />
@@ -49,7 +49,7 @@ const Slide = () => {
               <MDBView>
                 <img
                   className="w-100"
-                  src="https://mdbootstrap.com/img/Photos/Slides/img%20(70).jpg"
+                  src="https://cdn.pixabay.com/photo/2016/03/27/19/43/smartphone-1283938_1280.jpg"
                   alt="Third slide"
                   style={{ height: "70vh" }}
                 />

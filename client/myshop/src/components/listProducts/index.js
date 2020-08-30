@@ -11,11 +11,9 @@ const ListProducts = () => {
       .then((res) => res.json())
       .then((product) => {
         setProducts(product);
-        console.log(product);
       });
   }, []);
 
-  console.log(products);
 
   return (
     <div>

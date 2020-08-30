@@ -1,0 +1,19 @@
+.login{
+    border: 3px solid violet;
+    display: flex;
+    align-items: flex-end;
+    padding: 10rem auto;
+    margin: 5rem 15rem;
+}
+
+.contain{
+    margin: 0 5rem;
+}
+
+.formStyle{
+    padding: 10vh 15vw;
+}
+
+.text{
+    font-family: "Rubik";
+}

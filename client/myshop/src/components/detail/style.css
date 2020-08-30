@@ -2,14 +2,15 @@
   display: inline-flex;
   border: 3px solid purple;
   border-radius: 5px;
-  margin-top: 2rem;
+  margin: 2rem 2rem 2rem;
 }
 
 .flexing{
     display: flex;
-    margin: 0px;
+    margin: 2rem;
     padding: 0px;
 }
+
 
 .number-input input[type="number"] {
     -webkit-appearance: textfield;
